@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Education
-* ** Bachelor of Arts: University of Notre Dame 
+*  Bachelor of Arts: University of Notre Dame 
