@@ -19,3 +19,9 @@
 *  Minor(s): Data Science and Italian
 ## My Skills
  [![My Skills](https://skillicons.dev/icons?i=js,python,r,matlab)](https://skillicons.dev)
+
+## My Interests
+* Being outdoors
+* Chess
+* Italian History
+* Bodybuilding
