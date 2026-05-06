@@ -36,8 +36,8 @@ Minors: Data Science, Italian
   https://github.com/rwilli48-tech/TidyData-Project  
   - Focused on data cleaning, preprocessing, and transforming raw datasets into structured formats for analysis  
 - **Supervised Machine Learning Streamlit App** and **Unsupervised ML AP**
-Supervised: https://williams-data-science-portfolio-cagjavu9kxwxtvdvbkns37.streamlit.app/
-Unsupervised: https://rwilli48-tech-williams-data-scienc-mlunsupervisedappmain-lkybxg.streamlit.app/
+  - Supervised: https://williams-data-science-portfolio-cagjavu9kxwxtvdvbkns37.streamlit.app/
+  - Unsupervised: https://rwilli48-tech-williams-data-scienc-mlunsupervisedappmain-lkybxg.streamlit.app/
   - interactive apps that serve as miniature summaries of my time studying Machine Learning
 
 ---
